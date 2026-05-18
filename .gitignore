@@ -7,6 +7,10 @@
 *.dll
 *.so
 *.dylib
+pScan
+
+# Default hosts file
+pScan.hosts
 
 # Test binary, built with `go test -c`
 *.test
